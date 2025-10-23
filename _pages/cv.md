@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and "Biopsychology, Cognition, and Neuroscience" (BCN), University of Michigan, 2024
+* B.S. in Computer Science and Biopsychology, Cognition, and Neuroscience (BCN), University of Michigan, 2024
   * Cumulative GPA: 4.00 / 4.00
   * Honors
 

@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Ruimin Gao. I am a recent graduate from the [University of Michigan](https://umich.edu/). I studied [Computer Science](https://lsa.umich.edu/lsa/academics/majors-minors/computer-science-major.html) and [Biopsychology, Cognition, and Neuroscience](https://lsa.umich.edu/lsa/academics/majors-minors/biopsychology-cognition-and-neuroscience-major.html). When I was at Michigan, I was honored to be directly mentored faculties at the Department of Psychology, Department of Linguistics, and the College of Engineering. 
 
-I am joining the [Language, Intelligence & Thought Lab](https://www.language-intelligence-thought.net/) as a research technician starting in August 2024. 
+I am currently a research tech / lab manager at the [Language, Intelligence & Thought Lab](https://www.language-intelligence-thought.net/). I am looking for PhD oppotunities starting in Fall 2026!
 
 I am interested in studying AI 🤖 and the human mind 🧠.
 
