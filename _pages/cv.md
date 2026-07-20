@@ -27,7 +27,7 @@ Professional Employment
 Publications
 ======
 * **2026.** Gao, R., Cheung, C., Siegelman, M., Pongos, A. L. A., Kean, H. H., Tanner, A., Fedorenko, E., & Ivanova, A. A.  
-  *The language network responds robustly to sentences across tasks.*  
+  [*The language network responds robustly to sentences across tasks.*](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1283/137022/The-language-network-responds-robustly-to)  
   **Imaging Neuroscience.**
 
 * **2026.** Krempel, R.\*, Li, J.\*, Gao, R.\*, Yu, R., & Ivanova, A. A.  
@@ -35,19 +35,19 @@ Publications
   **Proceedings of the Annual Meeting of the Cognitive Science Society.**
 
 * **2026.** Schulman, D. S., Kerr, B., Kolachalama, S., Yin, S., Pienkney, J., Wachsman, M., Jalgaonkar, N., Gao, R., Jones, M. L. H., & Awtar, S.  
-  *Physiological data-driven models for motion sickness prediction.*  
+  [*Physiological data-driven models for motion sickness prediction.*](https://www.sciencedirect.com/science/article/pii/S0003687026000177)  
   **Applied Ergonomics.**
 
 * **2025.** Gao, R., Miller, C. S., Lin, B. T. W., Schwarz, C. W., & Jones, M. L. H.  
-  *Signal quality assessment and reconstruction of PPG-derived signals for heart rate and variability estimation in in-vehicle applications: A comparative review and empirical validation.*  
+  [*Signal quality assessment and reconstruction of PPG-derived signals for heart rate and variability estimation in in-vehicle applications: A comparative review and empirical validation.*](https://www.mdpi.com/1424-8220/25/24/7556)  
   **Sensors.**
 
 * **2025.** Binhuraib, T., Gao, R., & Ivanova, A. A.  
-  *LITcoder: A general-purpose library for building and comparing encoding models.*  
+  [*LITcoder: A general-purpose library for building and comparing encoding models.*](https://arxiv.org/abs/2509.09152)  
   **NeurIPS Workshop on Data on the Brain and Mind.**
 
 * **2025.** Zhao, J., Gao, R., & Brennan, J. R.  
-  *Decoding the neural dynamics of headed syntactic structure building.*  
+  [*Decoding the neural dynamics of headed syntactic structure building.*](https://www.jneurosci.org/content/45/17/e2126242025)  
   **Journal of Neuroscience.**
 
 \* Equal contribution.
@@ -58,7 +58,7 @@ Preprints
   *Scaling laws for group-constrained, subject-specific task fMRI analyses.*
 
 * **2025.** Ivanova, A. A., Kauf, C., Gao, R., She, J. S., Kean, H. H., Goldhaber, T., Nieto-Castañón, A., Varley, R., Kanwisher, N., & Fedorenko, E.  
-  *Semantic reasoning takes place largely outside the language network.*
+  [*Semantic reasoning takes place largely outside the language network.*](https://www.biorxiv.org/content/10.64898/2025.12.07.692873v1)
 
 Presentations
 ======
