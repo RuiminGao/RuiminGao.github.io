@@ -55,7 +55,7 @@ Publications
 Preprints
 ======
 * **2026.** Gao, R., & Ivanova, A. A.  
-  *Scaling laws for group-constrained, subject-specific task fMRI analyses.*
+  [*Scaling laws for group-constrained, subject-specific task fMRI analyses.*](https://www.biorxiv.org/content/10.64898/2026.07.22.740076v1)
 
 * **2025.** Ivanova, A. A., Kauf, C., Gao, R., She, J. S., Kean, H. H., Goldhaber, T., Nieto-Castañón, A., Varley, R., Kanwisher, N., & Fedorenko, E.  
   [*Semantic reasoning takes place largely outside the language network.*](https://www.biorxiv.org/content/10.64898/2025.12.07.692873v1)
