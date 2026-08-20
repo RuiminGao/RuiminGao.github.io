@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **2026–2030: Ph.D. in Cognition & Perception**
+* **2026–2031: Ph.D. in Cognition & Perception**
   * New York University
   * Advisors: Noga Zaslavsky and Liina Pylkkänen
 
@@ -31,7 +31,7 @@ Publications
   **Imaging Neuroscience.**
 
 * **2026.** Krempel, R.\*, Li, J.\*, Gao, R.\*, Yu, R., & Ivanova, A. A.  
-  *Variations in inner language and conceptual thought experience.*  
+  [*Variations in inner language and conceptual thought experience.*](https://escholarship.org/uc/item/1qr6s5tc)  
   **Proceedings of the Annual Meeting of the Cognitive Science Society.**
 
 * **2026.** Schulman, D. S., Kerr, B., Kolachalama, S., Yin, S., Pienkney, J., Wachsman, M., Jalgaonkar, N., Gao, R., Jones, M. L. H., & Awtar, S.  
